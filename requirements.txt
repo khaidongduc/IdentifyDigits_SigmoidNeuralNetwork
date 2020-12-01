@@ -1,7 +1,0 @@
-numpy~=1.18.5
-Keras~=2.4.3
-scipy~=1.5.2
-setuptools~=50.3.1
-mat4py~=0.4.3
-sklearn~=0.0
-scikit-learn~=0.23.2
